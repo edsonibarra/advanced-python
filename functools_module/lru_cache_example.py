@@ -22,4 +22,4 @@ if __name__ == "__main__":
     for module in modules:
         page = get_webpage(module)
     if page:
-        print("{} module page found".format(module))    
+        print("{} module page found".format(module))
